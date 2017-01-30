@@ -123,7 +123,7 @@ to share our code with the whole team, so let's send our branch to the remote.
 It Is possible to set the upstream with the option `-u`. If you go to the github repository you
 should be able to see your branch and create a `Pull Request`.
 
-![](/imgs/pr.png)
+![](/public/img/pr.png)
 
 ## Create a Pull Request (PR)
 
@@ -240,7 +240,7 @@ Create a document about git workflow
 
 Go to the github project and have a look in your pull request.
 
-![](/imgs/onecommit.png)
+![](/public/img/onecommit.png)
 
 ## Resolving Conflicts
 
@@ -253,7 +253,7 @@ keep calm and fix the conflict.
 
 In this moment the branch `paulo-is-hobbit` has conflicts that must be resolved.
 
-![](/imgs/conflict.png)
+![](/public/img/conflict.png)
 
 Ok, let's start the rebase process again, but now we have to fix the conflict.
 
@@ -349,7 +349,7 @@ To git@github.com:BrandwatchLtd/paulo-hobbit.git
 
 Now you can see the branch has no conflicts and it can be merged.
 
-![](/imgs/noconflict.png)
+![](/public/img/noconflict.png)
 
 Please, let's be happy and drink some pints now =).
 
