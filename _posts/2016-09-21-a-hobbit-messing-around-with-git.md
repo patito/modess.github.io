@@ -98,7 +98,7 @@ Now we have a branch and we can start changing our code, so make all changes nec
 in the project to fix your bug or add a new feature. Let's try to keep in mind the
 philosophy do one thing and do it well.
 
-![](/imgs/emacs.jpg)
+![](/public/img/emacs.jpg)
 
 ```
 # git add file1.rb file2.pp file.txt
