@@ -1,4 +1,7 @@
-# A Hobbit Messing Around with Git
+---
+layout: post
+title:  Hobbit Messing Around with Git 
+---
 
 Hi handsome, my name is Paulo Leonardo Benatto (a.k.a hobbit, dwarf or whatever you want
 =) and I would like to share my little experience working with git in different teams.
@@ -8,6 +11,8 @@ As I said before, this document is my experience working with git when I used to
 work in the Shire and Bree (north west of Middle-earth). You shouldn't take this post as
 a git reference, there are a lot of papers on the Internet explaining different git
 workflows and you should read them all.
+
+<!-- more -->
 
 If you do not agree with what I wrote here please send me comments or open a new issue in
 this repository. Just to be clear `you suck hobbit` is not a nice comment, I'm a hobbit
