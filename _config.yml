@@ -14,7 +14,7 @@ description:      >
     Brazilian compressed with LZO, delivering nonsense bugs.
   </p> 
 url:              http://patito.github.io
-baseurl:          /
+baseurl:          http://patito.github.io/
 
 author:
   name:           'Paulo Leonardo Benatto'
