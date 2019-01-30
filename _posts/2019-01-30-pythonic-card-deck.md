@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Python Card Deck (Fluent Python)
+title: A Pythonic Card Deck (Fluent Python)
 ---
 
 This code example is from `Fluent Python` book. I'm just reading the whole book and sharing here the code.
