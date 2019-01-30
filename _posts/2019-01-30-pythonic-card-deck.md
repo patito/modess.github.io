@@ -7,7 +7,7 @@ This code example is from `Fluent Python` book. I'm just reading the whole book 
 
 <!-- more -->
 
-```
+```python
 import collections
 
 Card = collections.namedtuple('Card', ['rank', 'suit'])
